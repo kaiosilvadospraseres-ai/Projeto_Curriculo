@@ -1,0 +1,18 @@
+.tabela{
+    display: inline-flex;
+    height: 10px;
+    width: 150px;
+    background-color: blue;
+    border: 2px solid black;
+    margin-left: 100px;
+    
+}
+
+.tabela2{
+    display: inline-flex;
+    height: 10px;
+    width: 150px;
+    background-color: white;
+    border: 2px solid black;
+    margin-left: 100px;
+}

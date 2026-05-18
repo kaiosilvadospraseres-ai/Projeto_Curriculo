@@ -1,0 +1,27 @@
+body{
+   background-color: aliceblue;
+   margin: 0%;
+   border: 5px solid black;
+   border-radius: 15px;
+}
+
+.linha{
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 5px;
+    background-color: black;
+    margin-top: 20px;
+}
+
+.contato{
+   display: inline-flex;
+   margin-top: 10px;
+   margin-left: 30px;
+}
+
+.contato2{
+    display: inline-flex;
+}
+
+
+
